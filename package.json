@@ -1,0 +1,15 @@
+{
+  "name": "cordova-plugin-myplugin",
+  "version": "1.0.0",
+  "description": "Rahmadi MyPlugin",
+  "cordova": {
+    "id": "cordova-plugin-myplugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "author": {
+    "name": "Rahmadi D",
+    "email": "rahmadid@gmail.com"
+  }
+}
